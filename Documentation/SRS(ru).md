@@ -28,13 +28,13 @@
 ## 2.1. Программные интерфейсы
 Должна присутствовать возможность выбрать карту.
 
-![](Mockup/StartMenu.png)
+![](https://github.com/ReshetnevMihail/Project/blob/master/Mockup/StartMenu.png)
 Должна присутствовать окно на котором будет происходить основной игровой процесс.
 
-![](Mockup/GameplayMenu.png)
+![](https://github.com/ReshetnevMihail/Project/blob/master/Mockup/GameplayMenu.png)
 Должна присутствовать возможность посещения игрового магазина.
 
-![](Mockup/MarketMenu.png)
+![](https://github.com/ReshetnevMihail/Project/blob/master/Mockup/MarketMenu.png)
 
 ## 2.2. Интерфейс пользователя
 Графический интерфейс пользователя представлен в виде mock-up иллюстраций.
