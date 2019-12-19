@@ -1,5 +1,5 @@
 # 1 Диаграмма вариантов использования
-![](https://github.com/ReshetnevMihail/Project/blob/master/Diagrams/Use-case/Use-Case%20.png)
+![](https://github.com/ReshetnevMihail/Project/blob/master/Diagrams/Use-case/Use-Case.png)
 ## 1.1 Актеры
 Пользователь - человек, который играет.
 Система - отвечает за сбор и анализ данных, а также передачу данных.
