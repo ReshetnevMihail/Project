@@ -47,9 +47,9 @@
   ## 1.3. Аналоги
 Основное характерная черта приложения это обширная система достижений и уровень профиля что приносит разнообразие в игровой процесс. 
 У многих популярных аналогов присутствует подобные функции. 
-[Реальная Рыбалка. Игра симулятор рыбной ловли.](https://play.google.com/store/apps/details?id=com.andromeda.truefishing&hl=ru)
-[Fishing Clash: реальный рыбалки игра. 3D симулятор](https://play.google.com/store/apps/details?id=com.tensquaregames.letsfish2&hl=ru)
-[Ultimate Fishing Simulator](https://play.google.com/store/apps/details?id=com.UltimateGames.Fishing&hl=ru)
+-[Реальная Рыбалка. Игра симулятор рыбной ловли.](https://play.google.com/store/apps/details?id=com.andromeda.truefishing&hl=ru)
+-[Fishing Clash: реальный рыбалки игра. 3D симулятор](https://play.google.com/store/apps/details?id=com.tensquaregames.letsfish2&hl=ru)
+-[Ultimate Fishing Simulator](https://play.google.com/store/apps/details?id=com.UltimateGames.Fishing&hl=ru)
 
 # 2. Требования пользователя
 
