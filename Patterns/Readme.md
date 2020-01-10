@@ -20,3 +20,17 @@
 Команда — это поведенческий паттерн проектирования, который превращает запросы в объекты, позволяя передавать их как аргументы при вызове методов, ставить запросы в очередь, логировать их, а также поддерживать отмену операций. Обработчик события класс Main позволяет управлять обьектом класса MyRandom. Он позволяет запускать или отменять работу методов класса MyRandom.
 
 ![](https://github.com/ReshetnevMihail/Project/blob/master/Patterns/Screenshots/screenshot4.png)
+
+# Структура паттернов
+
+## Одиночка
+
+![](https://github.com/ReshetnevMihail/Project/blob/master/Patterns/Diagrams/Diagram1.png)
+
+## Декоратор
+
+![](https://github.com/ReshetnevMihail/Project/blob/master/Patterns/Diagrams/Diagram2.png)
+
+## Команда
+
+![](https://github.com/ReshetnevMihail/Project/blob/master/Patterns/Diagrams/Diagram3.png)
